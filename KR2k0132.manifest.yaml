@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2k0132/v1
 canonical_location: https://kanripo.org/bkk/KR2k0132/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 東城雜記
   date: '2015-08-24 22:46:51.516947'
@@ -20,13 +20,13 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR2k0132_000.yaml, hash: 'sha256:97d74999d77291d70904771a5f1364e04821d5f6db939affa13a06b6c6079350'}
-  - {seq: 1, filename: KR2k0132_001.yaml, hash: 'sha256:e3fdddf42436c1594076248a65f8d26181823936b7682565192536bcf662479e'}
-  - {seq: 2, filename: KR2k0132_002.yaml, hash: 'sha256:4cd5ed74cb30987782b36e81f7b9ba015969c42d69160a5e0e9865e49e341e35'}
+  - {seq: 0, filename: KR2k0132_000.yaml, hash: 'sha256:baebf5ebf4413ea40be2bbaf8c3bed56e01558d50da56f94144a74d0fb30aba1'}
+  - {seq: 1, filename: KR2k0132_001.yaml, hash: 'sha256:7f988865ab6f33107d8c2a65a1b2d949bf1e7184bc399ccc587438a739d3bcd6'}
+  - {seq: 2, filename: KR2k0132_002.yaml, hash: 'sha256:64723e78af437090aacee5e0cb225f49081b3fe4dd89e9f6e60ec6880891fb87'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2k0132_000.markers.yaml, hash: 'sha256:30e9afcfeb5c0a27656a76877ba5f4835d64f0e071e2779e8acf6a66216b1a2c'}
-  - {seq: 1, role: markers, filename: assets/KR2k0132_001.markers.yaml, hash: 'sha256:841f955a4f02756daa380ceb2ed470515fea027b40cf18b5c7b034fe8eb2bf4e'}
-  - {seq: 2, role: markers, filename: assets/KR2k0132_002.markers.yaml, hash: 'sha256:91d68dfaa48440d3a22f24ba1ed60b6845e24493c3dfc679182766cfbeabe0f0'}
+  - {seq: 0, role: markers, filename: assets/KR2k0132_000.markers.yaml, hash: 'sha256:67c50426e63a59dec63345c1a454a729555378ab17a59c93309bd322196e42f3'}
+  - {seq: 1, role: markers, filename: assets/KR2k0132_001.markers.yaml, hash: 'sha256:cd91152820341dabf7efd3f5de4f88fd143d6c954808c8cd2819331a7c3effc1'}
+  - {seq: 2, role: markers, filename: assets/KR2k0132_002.markers.yaml, hash: 'sha256:cb51733aa3a64185528880c4c472c45edb78126c0adf1f9f2b1e5014d6bfbd1d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -68,4 +68,7 @@ table_of_contents:
   label: 卷下
   type: section
   level: 1
-hash: sha256:e1efd25459317eee56e0b92ab47608c862a1e1a0db5c6e146c91ee0320d48923
+hash: sha256:5a44cbc603b10ab8d8b870c8ee43439c1dc3ead988a74a85ac60cb964fd61850
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
